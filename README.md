@@ -43,6 +43,17 @@ In this project, I'll use Tableau to create interactive dashboards that will be 
 [Project](https://github.com/WIAMALI/Business-Analytics-Nanodegree/blob/main/Data%20Visualization/DATA%20VISUALIZATION%20IN%20TABLEAU.pdf)
 
 
+# [Google Analytics](LINK)
+
+#### Project - Use Advanced Displays and Create Segments
+
+In this project, you'll use Goolge Analytics, All insights which has been performed is on Google Merchandise Store Demo account. It is divided into three parts:
+Part One: Primary Views and Filters, 
+Part Two: Data Exploration, 
+Part Three: Segmentation.
+[Project]
+
+
 # [Marketing Analytics](LINK)
 
 > In this course you will learn about a wide range of marketing and business metrics, and how to evaluate the growth and health of your marketing efforts.
