@@ -22,7 +22,7 @@ In this project, you’ll explore an interactive data dashboard to uncover insig
 In this project, I explored Udacity marketing surveillance data. 
 I analyzed data from over 500 New York Stock Exchange companies using statistics and spreadsheet programs such as Excel. Then, using the NYSE dataset, I
 forecast financial metrics based on three different scenarios for a company.
-[Project](https://github.com/WIAMALI/Business-Analytics-Nanodegree/blob/main/Introduction%20to%20Data/Project%20NYSE%20Data.pdf)
+[Project]([https://github.com/WIAMALI/Business-Analytics-Nanodegree/blob/main/Introduction%20to%20Data/Project%20NYSE%20Data.pdf](https://github.com/WIAMALI/Marketing-Analytics-BSF-Nanodegree/blob/main/Project%202%20-%20Analyze%20Survey%20Data/Project%202%20Analyze%20Survey%20Data.pdf))
 
 
 
