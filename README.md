@@ -14,7 +14,7 @@ This Nanodegree program is designed to help you gain foundational data skills ap
 #### Project - Interpret Data Visulaization
 
 In this project, you’ll explore an interactive data dashboard to uncover insights. You’ll write a short report explaining each insight, and how you found the information to reach your conclusion from the dashboard.
-[Project](https://github.com/WIAMALI/Marketing-Analytics-BSF-Nanodegree/tree/main/Project%201%20-%20Interpret%20a%20Data%20Visualization)
+[Project](https://github.com/WIAMALI/Marketing-Analytics-BSF-Nanodegree/blob/main/Project%201%20-%20Interpret%20a%20Data%20Visualization/Project1_Interpret_a_Data_Visualization__1_.pdf)
 
 
 #### Project - Analyze Survey Data 
