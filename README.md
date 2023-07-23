@@ -54,7 +54,7 @@ Part Three: Segmentation.
 [Project](https://github.com/WIAMALI/Marketing-Analytics-BSF-Nanodegree/blob/main/Project%205%20-%20Advanced%20Displays%2C%20Creating%20Segments%20and%20Applying%20View%20Settings%20and%20Filters/Advanced%20Displays%2C%20Creating%20Segments%20and%20Applying%20View%20Settings%20and%20Filters-2.pdf)
 
 
-# [Marketing Analytics](LINK)
+# [Marketing Analytics Techniques](LINK)
 
 > In this course you will learn about a wide range of marketing and business metrics, and how to evaluate the growth and health of your marketing efforts.
 
