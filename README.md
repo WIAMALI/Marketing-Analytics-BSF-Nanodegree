@@ -2,7 +2,7 @@
 
 This repository contains projects for Udacity's Marketing Analytics Nanodegree program offered by BSF (Banque Saudi Franci).
 
-This Nanodegree program is designed to help you gain foundational data skills applicable to marketing by collecting and analyzing data, modeling mrketing scenarios, and communicating your findings with Excel and Tableau.
+This Nanodegree program is designed to help you gain foundational data skills applicable to marketing by collecting and analyzing data, modeling marketing scenarios, and communicating your findings with Excel and Tableau.
 
 
 
